@@ -1,3 +1,6 @@
 {
 hai this is my git file
 }
+{
+i am doing modification in this file
+}
