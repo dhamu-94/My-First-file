@@ -4,3 +4,15 @@ hai this is my git file
 {
 i am doing modification in this file
 }
+{
+now i am adding branching 
+}
+{
+dev
+}
+{
+qa
+}
+{
+uat
+}
